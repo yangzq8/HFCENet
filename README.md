@@ -21,7 +21,12 @@ The easiest way to run the code is using the following command
 python test.py --model_trained_path your_path
 ```
 
+## Model_trained
+
+clean: https://pan.baidu.com/s/1SV5ZSdskbqMhpIwwsp1G4Q password: d82g
+
 ## Train
+
 The easiest way to run the code is using the following command
 ```
 python main.py --exp_name exp
