@@ -13,7 +13,7 @@ tqdm 4.47.0
 
 ## Data
 
-For ModelNet40, the data will be downloaded automatically.
+For ModelNet40, the data will be downloaded automatically. If not, please download from: https://pan.baidu.com/s/11dyVn0l0LMnr0QwszVY8OQ pwd: mkm7
 
 ## Test
 The easiest way to run the code is using the following command
